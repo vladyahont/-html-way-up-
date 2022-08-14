@@ -1,0 +1,33 @@
+body {
+  /*font-family: Arial, Helvetica, sans-serif;*/
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: white;
+  background: green;
+  border: solid green;
+}
+.new {
+  color: #fff;
+  background-color: blue;
+  width: 100px;
+  margin-bottom: 100px;
+}
+.new1 {
+  padding: 40px;
+}
+a {
+  color: blue;
+}
+#blok {
+  margin-left: 100px;
+}
+li {
+  font-size: 20px;
+  border: 1px solid black;
+}
+span {
+  color: red;
+}
